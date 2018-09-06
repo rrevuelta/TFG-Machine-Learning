@@ -1,7 +1,8 @@
 ##############################################
 #SCRIPT: train_low.py
 #Autor: Rubén Revuelta Briz
-#Definición: Creación y entrenamiento de una red neuronal con los datos proporcionados por BSH
+#Definición: Creación y entrenamiento de una red neuronal con los datos proporcionados por BSH para
+#            el trabajo de fin de grado del grado en Ingeniería Informática de la Universidad de Cantabria
 ##############################################
 
 import tensorflow as tf 
