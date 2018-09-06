@@ -1,9 +1,8 @@
 ##############################################
 #SCRIPT: dataset.py
 #Autor: Rubén Revuelta Briz
-#Definición: Pre-procesado del conjunto 
-#            de datos de BSH para su posterior 
-#            entrenamiento.
+#Definición: Pre-procesado del conjunto de datos de BSH para su posterior entrenamiento. Creado para
+#            el trabajo de fin de grado del grado en Ingeniería Informática de la Universidad de Cantabria
 ##############################################
 
 import pandas as pd 
